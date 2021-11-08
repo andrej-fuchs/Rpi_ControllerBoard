@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name al-raspberrypi-board)(type KiCad)(uri C:/Users/Andrej/Documents/KiCAD/al-kicad-library/footprint/al-raspberrypi-board.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name al-raspberrypi_boards)(type Legacy)(uri C:/Users/Andrej/Documents/KiCAD/al-kicad-library/symbol/al-raspberrypi_boards.lib)(options "")(descr ""))
+  (lib (name al-voltage-regulators)(type Legacy)(uri C:/Users/Andrej/Documents/KiCAD/al-kicad-library/symbol/al-voltage-regulators.lib)(options "")(descr ""))
+)
