@@ -27,5 +27,8 @@ fp-info-cache
 *.xml
 *.csv
 
+# ZIP Archive
+*.zip
+
 # Directories
 /Doc
